@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\BelleBridal.Persistence.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\BelleBridal.Persistence.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\BelleBridal.API.Data.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\BelleBridal.API.Database.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\BelleBridal.API.Database.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\BelleBridal.API.Data.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\obj\Debug\BelleBridal.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\obj\Debug\BelleBridal.Persistence.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\BelleBridal.API\BelleBridal.Persistence\obj\Debug\BelleBridal.Persistence.pdb

@@ -1,0 +1,11 @@
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Database\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Database\bin\Debug\DocumentDB.Spatial.Sql.dll
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Database\bin\Debug\BelleBridal.API.Database.dll
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Database\bin\Debug\BelleBridal.API.Database.pdb
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Database\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Database\bin\Debug\Newtonsoft.Json.dll
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Database\bin\Debug\Microsoft.Azure.Documents.Client.xml
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Database\bin\Debug\Newtonsoft.Json.xml
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Database\obj\Debug\BelleBridal.API.Database.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Database\obj\Debug\BelleBridal.API.Database.dll
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Database\obj\Debug\BelleBridal.API.Database.pdb

@@ -1,0 +1,7 @@
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Data\bin\Debug\BelleBridal.API.Data.dll
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Data\bin\Debug\BelleBridal.API.Data.pdb
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Data\bin\Debug\Newtonsoft.Json.dll
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Data\bin\Debug\Newtonsoft.Json.xml
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Data\obj\Debug\BelleBridal.API.Data.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Data\obj\Debug\BelleBridal.API.Data.dll
+c:\users\danie\documents\visual studio 2017\Projects\BelleBridal.API\BelleBridal.API.Data\obj\Debug\BelleBridal.API.Data.pdb
